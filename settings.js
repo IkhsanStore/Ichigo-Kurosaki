@@ -14,7 +14,7 @@ global.ownerName = 'SANS JB'
 global.packname = 'SANS JB'
 global.author = 'BOT BY SANS JB'
 global.prefa = ['','!','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
-global.sessionName = 'sesi'
+global.sessionName = 'session.json'
 
 //Message Nya Ubah Disini
 global.mess = {
