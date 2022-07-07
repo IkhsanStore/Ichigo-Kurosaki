@@ -243,7 +243,7 @@ Rental Bot Prices :
   }
   break
 case 'sc': case 'sourcecode': case 'script': {
-  m.reply('*Script Berasal Dari :* https://github.com/nzrlafndi/ichigo-kurosaki\n\nJangan Lupa Bintang nya!')
+  m.reply('*Script Berasal Dari :* https://github.com/IkhsanStore/ichigo-kurosaki\n\nJangan Lupa Bintang nya!')
   }
   break
 case 'owner': {
